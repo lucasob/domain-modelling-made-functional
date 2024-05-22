@@ -1,6 +1,8 @@
 # Domain Modelling Made Functional
 
-## Chapter 4 - Types in F\#
+## What?
+This repository tracks worked examples, solutions and notes to various chapters in Scott Wlaschin's Domain Modelling Made Functional
+
 
 ## Using this repo
 
